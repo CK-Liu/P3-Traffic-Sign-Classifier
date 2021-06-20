@@ -11,6 +11,7 @@ and starter code. Be sure to download the [Ipython notebook](https://github.com/
 We also want you to create a detailed writeup of the project. Check out the [writeup template](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/writeup_template.md) for this project and use it as a starting point for creating your own writeup. The writeup can be either a markdown file or a pdf document.
 
 To meet specifications, the project will require submitting three files:
+
 * the Ipython notebook with the code
 * the code exported as an html file
 * a writeup report either as a markdown or pdf file
@@ -55,3 +56,5 @@ Follow the instructions in the `Traffic_Sign_Classifier.ipynb` notebook and writ
 
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+
+
